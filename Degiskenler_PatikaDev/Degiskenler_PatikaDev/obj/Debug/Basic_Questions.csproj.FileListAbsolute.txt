@@ -1,0 +1,7 @@
+C:\Users\3E_Spare\source\repos\Basic_Questions\Basic_Questions\bin\Debug\Basic_Questions.exe.config
+C:\Users\3E_Spare\source\repos\Basic_Questions\Basic_Questions\bin\Debug\Basic_Questions.exe
+C:\Users\3E_Spare\source\repos\Basic_Questions\Basic_Questions\bin\Debug\Basic_Questions.pdb
+C:\Users\3E_Spare\source\repos\Basic_Questions\Basic_Questions\obj\Debug\Basic_Questions.csproj.AssemblyReference.cache
+C:\Users\3E_Spare\source\repos\Basic_Questions\Basic_Questions\obj\Debug\Basic_Questions.csproj.CoreCompileInputs.cache
+C:\Users\3E_Spare\source\repos\Basic_Questions\Basic_Questions\obj\Debug\Basic_Questions.exe
+C:\Users\3E_Spare\source\repos\Basic_Questions\Basic_Questions\obj\Debug\Basic_Questions.pdb
